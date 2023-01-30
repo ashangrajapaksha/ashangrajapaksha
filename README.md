@@ -5,4 +5,5 @@
 ### About me
 
 
-- 💼 FrontEnd Engineer at revox.io
+- 💼 Full Stack Engineer at revox.io
+- 👨‍🎓 Graduate from University Of Colomobo
