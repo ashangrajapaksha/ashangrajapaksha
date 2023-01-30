@@ -5,5 +5,5 @@
 ### About me
 
 
-- 💼 Full Stack Engineer at revox.io
-- 👨‍🎓 Graduate from University Of Colomobo
+- 💼 Full Stack Engineer at @revox.io
+- 👨‍🎓 Graduate from University Of Colombo
