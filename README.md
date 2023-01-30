@@ -5,4 +5,4 @@
 ### About me
 
 
-💼 FrontEnd Engineer at revox.io
+- 💼 FrontEnd Engineer at revox.io
